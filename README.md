@@ -30,4 +30,4 @@ Java • Spring Boot • Arquitetura de Software • Testes Automatizados • AW
 
 ## Contato
 
-https://www.linkedin.com/in/marcos-nascimento-12ab692b6/
+[LinkedIn](https://www.linkedin.com/in/marcos-nascimento-12ab692b6/)
