@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou Marcos Nascimento 👋
 
-<!--
-**Marcos-Nascimento96/Marcos-Nascimento96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação com foco em **Back-end Java**, atualmente aprofundando conhecimentos em **Java, Spring Boot, APIs REST, SQL e Engenharia de Software**.
 
-Here are some ideas to get you started:
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e atuo como **Estagiário de Tecnologia**, com experiência em APIs, qualidade de software, testes, documentação técnica e desenvolvimento Back-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+* Java
+* Spring Boot
+* APIs REST
+* SQL
+* Git e GitHub
+* Gradle
+* Docker
+* JUnit
+* Datadog
+
+## Projeto em destaque
+
+### ImobFlow API
+
+API Back-end desenvolvida para aplicar conceitos de Engenharia de Software, arquitetura, testes automatizados e CI/CD utilizando Java e Spring Boot.
+
+O projeto está em evolução contínua conforme avanço nos estudos e na experiência profissional.
+
+## Atualmente estudando
+
+Java • Spring Boot • Arquitetura de Software • Testes Automatizados • AWS
+
+## Contato
+
+https://www.linkedin.com/in/marcos-nascimento-12ab692b6/
